@@ -1,0 +1,116 @@
+Uri: https://ppf.one/xquers
+File Name: C:\Users\Emirhan\Desktop\ppf.one\xquers.html
+Content Type: text/html
+
+Uri: https://ppf.one/uploads/backgrounds/2d78ffe50c6c352185d391bbc313156a.jpg
+File Name: C:\Users\Emirhan\Desktop\ppf.one\uploads\backgrounds\2d78ffe50c6c352185d391bbc313156a.jpg
+Content Type: image/jpeg
+
+Uri: https://ppf.one/uploads/profiles/0c7e86d4b1cc1adebe1a0e306bad5c78.jpg?v=1654430569
+File Name: C:\Users\Emirhan\Desktop\ppf.one\uploads\profiles\0c7e86d4b1cc1adebe1a0e306bad5c78.jpg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css
+File Name: C:\Users\Emirhan\Desktop\ppf.one\ajax\libs\font-awesome\6.0.0-beta2\css\all.min.css
+Content Type: text/css
+
+Uri: https://ppf.one/assets/css/bootstrap.min.css?v=90
+File Name: C:\Users\Emirhan\Desktop\ppf.one\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ppf.one/assets/css/main.css?v=90
+File Name: C:\Users\Emirhan\Desktop\ppf.one\assets\css\main.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.compat.css
+File Name: C:\Users\Emirhan\Desktop\ppf.one\ajax\libs\animate.css\4.0.0\animate.compat.css
+Content Type: text/css
+
+Uri: https://www.tiktok.com/@craftrisecomtr
+File Name: C:\Users\Emirhan\Desktop\ppf.one\@craftrisecomtr.html
+Content Type: text/html
+
+Uri: https://t.me/craftrisetc
+File Name: C:\Users\Emirhan\Desktop\ppf.one\craftrisetc.html
+Content Type: text/html
+
+Uri: https://steamcommunity.com/id/ersy666
+File Name: C:\Users\Emirhan\Desktop\ppf.one\id\ersy666.html
+Content Type: text/html
+
+Uri: https://open.spotify.com/user/x9xlhgy9ge53vj2m5l9n9fsq6
+File Name: C:\Users\Emirhan\Desktop\ppf.one\user\x9xlhgy9ge53vj2m5l9n9fsq6.html
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Users\Emirhan\Desktop\ppf.one\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/polipop/dist/css/polipop.core.min.css
+File Name: C:\Users\Emirhan\Desktop\ppf.one\npm\polipop\dist\css\polipop.core.min.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\bootstrap\3.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\bootstrap\4.3.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ppf.one/uploads/profiles/0c7e86d4b1cc1adebe1a0e306bad5c78.jpg
+File Name: C:\Users\Emirhan\Desktop\ppf.one\uploads\profiles\0c7e86d4b1cc1adebe1a0e306bad5c78-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ppf.one/assets/images/badgemini.svg
+File Name: C:\Users\Emirhan\Desktop\ppf.one\assets\images\badgemini.svg
+Content Type: image/svg+xml
+
+Uri: https://ppf.one/assets/images/verified.svg
+File Name: C:\Users\Emirhan\Desktop\ppf.one\assets\images\verified.svg
+Content Type: image/svg+xml
+
+Uri: https://ppf.one/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/polipop/dist/polipop.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\npm\polipop\dist\polipop.min.js
+Content Type: application/javascript
+
+Uri: https://ppf.one/assets/js/main.js?v=90
+File Name: C:\Users\Emirhan\Desktop\ppf.one\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://ppf.one/assets/js/picker.js?v=90
+File Name: C:\Users\Emirhan\Desktop\ppf.one\assets\js\picker.js
+Content Type: application/x-javascript
+
+Uri: https://www.instagram.com/ersyy.x/
+File Name: C:\Users\Emirhan\Desktop\ppf.one\ersyy.x\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/ersyyx
+File Name: C:\Users\Emirhan\Desktop\ppf.one\ersyyx.html
+Content Type: text/html
+
+Uri: https://www.craftrise.com.tr/index.php?s=player&player=Xquers
+File Name: C:\Users\Emirhan\Desktop\ppf.one\index.php.html
+Content Type: text/html
+
+Uri: https://unpkg.com/polipop@1.0.0/dist/css/polipop.default.min.css
+File Name: C:\Users\Emirhan\Desktop\ppf.one\polipop@1.0.0\dist\css\polipop.default.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/@popperjs/core@2.11.5/dist/umd/popper.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\@popperjs\core@2.11.5\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/tippy.js@6.3.7/dist/tippy-bundle.umd.min.js
+File Name: C:\Users\Emirhan\Desktop\ppf.one\tippy.js@6.3.7\dist\tippy-bundle.umd.min.js
+Content Type: application/javascript
+
